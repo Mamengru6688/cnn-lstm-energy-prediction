@@ -24,7 +24,7 @@ You can launch the core notebook in your environment (local or Colab):
 
 ```bash
 jupyter notebook notebooks/energy_prediction.ipynb
-
+```
 
 ## 🧠 Model Overview
 
