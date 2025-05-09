@@ -5,7 +5,7 @@ This project reproduces the key methodology and experiments from the paper
 
 We implement a hybrid **CNN-LSTM** deep learning architecture for multivariate, multi-step forecasting of residential electricity consumption, and evaluate its performance across various time granularities: **minute**, **hour**, **day**, and **week**.
 
----
+
 
 ## Project Structure
 
@@ -42,7 +42,7 @@ Three models are compared:
 
 Each is evaluated on RMSE across multiple time resolutions.
 
----
+
 
 ## 📊 Dataset
 
@@ -50,18 +50,17 @@ Each is evaluated on RMSE across multiple time resolutions.
 * **Dataset**: [Residential Building Data Set](https://archive.ics.uci.edu/ml/datasets/Residential+Building+Data)
 * Contains time-stamped records of residential energy use and weather variables.
 
----
 
 ## 📄 Reference
 
 > H. Yildiz, J. I. Bilbao, and A. B. Sproul, "Predicting residential energy consumption using CNN-LSTM neural networks," *Energy*, vol. 176, pp. 562–570, 2019.
 > [DOI: 10.1016/j.energy.2019.03.015](https://doi.org/10.1016/j.energy.2019.03.015)
 
----
+
 
 ## 📜 License
 
 This project is licensed under the MIT License.
 
----
+
 
